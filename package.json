@@ -1,0 +1,21 @@
+{
+  "name": "solar-ray",
+  "displayName": "Solar Ray",
+  "description": "Colorful Coding Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solar Ray",
+        "uiTheme": "hc-light",
+        "path": "./themes/Solar Ray-color-theme.json"
+      }
+    ]
+  }
+}
