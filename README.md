@@ -1,4 +1,4 @@
-# solar-ray README
+# IBM inspired Visual Studio Code Theme README
 
 ## Working with Markdown
 
