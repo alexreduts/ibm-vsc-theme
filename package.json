@@ -1,7 +1,7 @@
 {
-  "name": "solar-ray",
-  "displayName": "Solar Ray",
-  "description": "Colorful Coding Theme",
+  "name": "ibm-vsc-theme",
+  "displayName": "IBM VSC Theme",
+  "description": "Visual Studio Code Theme inspired by the IBM Design Language",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Solar Ray",
-        "uiTheme": "hc-light",
-        "path": "./themes/Solar Ray-color-theme.json"
+        "label": "IBM Light",
+        "uiTheme": "vs",
+        "path": "./themes/ibm-light.json"
+      },
+      {
+        "label": "IBM Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ibm-dark.json"
       }
     ]
   }
